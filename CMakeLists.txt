@@ -18,6 +18,7 @@ add_message_files(
   HumanRecognitionResult.msg
   ActivityRecognitionResult.msg
   GestureRecognitionResult.msg
+  ClutteredPickResult.msg
   HandoverObjectResult.msg
   ReceiveObjectResult.msg
   BoundingBox2D.msg

@@ -1,3 +1,7 @@
+uint8 FEEDBACK=1
+uint8 RESULT=2
+uint8 message_type
+
 uint8 BOUNDING_BOX_2D=1
 uint8 BOUNDING_BOX_3D=2
 

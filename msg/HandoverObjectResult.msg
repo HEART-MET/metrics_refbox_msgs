@@ -1,3 +1,7 @@
+uint8 FEEDBACK=1
+uint8 RESULT=2
+uint8 message_type
+
 # enums for human_pose
 uint8 HUMAN_POSE_LAYING=1
 uint8 HUMAN_POSE_STANDING=2
