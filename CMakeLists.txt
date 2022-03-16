@@ -21,6 +21,8 @@ add_message_files(
   ClutteredPickResult.msg
   HandoverObjectResult.msg
   ReceiveObjectResult.msg
+  AssessActivityStateResult.msg
+  ItemDeliveryResult.msg
   BoundingBox2D.msg
   BoundingBox3D.msg
 )
