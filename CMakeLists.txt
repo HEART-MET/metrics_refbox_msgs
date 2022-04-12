@@ -15,6 +15,7 @@ add_message_files(
   Command.msg
   Confirm.msg
   ObjectDetectionResult.msg
+  PersonDetectionResult.msg
   HumanRecognitionResult.msg
   ActivityRecognitionResult.msg
   GestureRecognitionResult.msg
