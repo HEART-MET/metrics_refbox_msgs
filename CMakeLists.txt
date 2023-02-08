@@ -24,6 +24,7 @@ add_message_files(
   ReceiveObjectResult.msg
   AssessActivityStateResult.msg
   ItemDeliveryResult.msg
+  GenericTaskResult.msg
   BoundingBox2D.msg
   BoundingBox3D.msg
 )
